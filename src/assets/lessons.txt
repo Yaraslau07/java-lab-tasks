@@ -1,0 +1,10 @@
+MON 08:15-09:45 217 Java Programming
+TUE 10:00-11:30 105 Data Structures 
+WED 12:00-13:30 312 Сloud Computing
+THU 14:00-15:30 004 Operating Systems
+FRI 08:15–09:45 220 Software Engineering
+MON 1O:00-11:30 204 Machine Learning
+TUE 12:00-13:30 3l0 Computer Networks
+WED 14:00-15:30 140 Business English
+THU 16:45-16:45 230 Linear Algebra
+FRI 22:00-23:59 500 Introduction to Statistics
